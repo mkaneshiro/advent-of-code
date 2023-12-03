@@ -12,5 +12,5 @@ I plan on uploading solutions for all of the problems. Eventually, I might try t
 |2019|0      |
 |2020|0      |
 |2021|0      |
-|2022|0      |
+|2022|4      |
 |2023|4      |
