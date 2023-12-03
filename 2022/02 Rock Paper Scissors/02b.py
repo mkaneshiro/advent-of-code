@@ -1,5 +1,5 @@
 # mkaneshiro
-# 2022-12-02
+# 2023-12-02
 # Advent of Code 2022
 # Day 2: Rock Paper Scissors, Part 2
 
