@@ -13,4 +13,4 @@ I plan on uploading solutions for all of the problems. Eventually, I might try t
 |2020|0      |
 |2021|0      |
 |2022|6      |
-|2023|4      |
+|2023|8      |
