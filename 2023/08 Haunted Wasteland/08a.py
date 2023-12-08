@@ -25,7 +25,7 @@ def solve(puz):
         if inst[counter % len(inst)] == "L":
             point = leftDict[point]
 
-        elif inst[counter % len(inst)] == "R":
+        else:
             point = rightDict[point]
         counter += 1
     return counter
