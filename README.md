@@ -6,7 +6,7 @@ I plan on uploading solutions for all of the problems. Eventually, I might try t
 |Year|# Stars|
 |----|-------|
 |2015|0      |
-|2016|8      |
+|2016|10      |
 |2017|0      |
 |2018|0      |
 |2019|0      |
