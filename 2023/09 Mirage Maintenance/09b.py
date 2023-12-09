@@ -16,7 +16,6 @@ def solve(pzl):
             arr = lineDict[counter]
             lineDict[counter + 1] = [arr[i] - arr[i-1] for i in range(1, len(arr))]
             counter += 1
-
         total += backup(lineDict)
     return total
 
@@ -26,7 +25,6 @@ def backup(l):
     for i in range(start+1):
         nval = l[start-i][0] - n
         n = nval
-        print(nval)
     return nval
 
 
