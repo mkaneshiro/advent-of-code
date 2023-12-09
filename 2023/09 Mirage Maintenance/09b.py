@@ -25,7 +25,7 @@ def backup(l):
     for i in range(start+1):
         nval = l[start-i][0] - n
         n = nval
-    return nval
+    return n
 
 
 print(solve(inps))
